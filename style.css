@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 100vw;
+    height: 103vh;
+    display: flex;
+    display: grid;
+    grid-template-columns: 2.4fr 2.4fr 2.4fr 2.4fr 2.4fr;
+    grid-template-rows: 6fr 6fr;
+}
+.item{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item2{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item3{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item4{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item5{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item6{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item7{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item8{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item9{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+.item10{
+    width: 18vw;
+    height: 50vh;
+    border: 1px solid black;
+    padding-bottom: 20px;
+}
+h2{
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-left: 17px;
+}
+#img1{
+    width: 17.8vw;
+    margin-top: 20px;
+}
+#img2{
+    width: 18vw;
+    height: 20.5vh;
+    margin-top: 20px;
+}
+p{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding-left: 20px;
+    display: inline-block;
+    margin-top: 30px;
+}
+body{
+    overflow-x: hidden;
+}
